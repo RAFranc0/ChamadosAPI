@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChamadosAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b16040c68c80bdadf7157b62aa6acb2d81afb3fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChamadosAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChamadosAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
